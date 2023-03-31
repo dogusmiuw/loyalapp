@@ -16,4 +16,5 @@ You can plant saplings with the NFT you earn with the event you attended.
 
 ### Used Technologies
 - [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 - [Firebase](firebase.google.com/)
