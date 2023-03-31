@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "149274182505",
+    "project_id": "loyalapp-2beb0",
+    "storage_bucket": "loyalapp-2beb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149274182505:android:70858b12059bea3114f3f8",
+        "android_client_info": {
+          "package_name": "com.example.loyalappco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149274182505-56akvkpt3kvqfdnan0avuup3f5r8rj4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbXbikuy5_xVmQHAX_J7gx69i8Nh24qN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149274182505-56akvkpt3kvqfdnan0avuup3f5r8rj4q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149274182505-6mef0v0bvk203pc173v83k03pmc2aiha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loyalappco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
