@@ -1,16 +1,19 @@
-# loyalappco
+# LoyalApp
 
-A new Flutter project.
+## Problems
+Lack of digital infrastructure of local businesses, coffee shops.
+The lack of a verifiable, trackable and sustainable system for the participants of the organizers at online or offline events.
+Failure of companies to communicate their professional social responsibility projects to large masses.
 
-## Getting Started
+So, how can these problems be solved?
 
-This project is a starting point for a Flutter application.
+## Solutions
+We help institutions support disadvantaged groups, including individuals, stray animals, and female students...
+Through secure, trackable, and interactive web3-based social responsibility projects that maximize impact.
+Users will earn NFT badges at the end of the event and will be able to donate to social responsibility projects through our application.
+Support local businesses using the Loyal App.
+You can plant saplings with the NFT you earn with the event you attended.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Used Technologies
+- [Flutter](https://flutter.dev/)
+- [Firebase](firebase.google.com/)
